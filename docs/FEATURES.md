@@ -10,11 +10,11 @@ Base URL: [https://oinp.getnorthpath.com](https://oinp.getnorthpath.com)
 
 | Page | Path | Notes |
 | --- | --- | --- |
-| All pathways hub | `/` | Worker or physician; full 11-factor form |
+| All pathways hub | `/` | Worker or physician; full 11 factor form |
 | Skilled TEER 0 to 3 | `/calculator/skilled-teer-0-3` | Management, professional, technical job offers |
 | Essential TEER 4 to 5 | `/calculator/essential-teer-4-5` | Essential occupations; TEER factor is 0 (practical ceiling ~121 / 130) |
 | Physicians | `/calculator/physicians` | No job offer; max **115** |
-| Compare scenarios | `/calculator/compare-scenarios` | Up to three profiles, per-factor diffs |
+| Compare scenarios | `/calculator/compare-scenarios` | Up to three profiles, per factor diffs |
 
 See [PATHWAYS.md](PATHWAYS.md).
 
@@ -26,8 +26,8 @@ See [PATHWAYS.md](PATHWAYS.md).
 | --- | --- | --- |
 | CLB converter | `/tools/clb-converter` | IELTS, CELPIP, PTE Core, TEF, TCF → CLB / NCLC and language points |
 | NOC and TEER finder | `/tools/noc-teer-finder` | Search NOC 2021 unit groups; TEER + occupation points |
-| Wage lookup | `/tools/wage-lookup` | Median wage by occupation / region; wage-point context |
-| Tax bracket estimator | `/tools/tax-bracket-estimator` | Convert pay to annual; map to OINP income-tax history bands |
+| Wage lookup | `/tools/wage-lookup` | Median wage by occupation / region; wage point context |
+| Tax bracket estimator | `/tools/tax-bracket-estimator` | Convert pay to annual; map to OINP income tax history bands |
 | CRS calculator | GetNorthPath site | Federal CRS, not this grid: [getnorthpath.com/tools/crs-calculator](https://www.getnorthpath.com/tools/crs-calculator) |
 
 ---
@@ -81,7 +81,7 @@ Regional points are based on **job / practice location**, not where you live tod
 | --- | --- | --- |
 | Northern Ontario | `/regions/northern-ontario` | 15 / 15 |
 | Ottawa (Eastern) | `/regions/ottawa` | 10 |
-| Waterloo–Kitchener | `/regions/waterloo-kitchener` | 10 |
+| Waterloo Kitchener | `/regions/waterloo-kitchener` | 10 |
 | Windsor | `/regions/windsor` | 10 |
 | Hamilton | `/regions/hamilton` | 10 |
 | Toronto | `/regions/toronto` | 0 |
@@ -127,6 +127,6 @@ NOC **job titles** in search tools stay English (official StatCan list) even whe
 ## What we deliberately do not add
 
 - Paywalls on the core calculator
-- Invented invitation cut-offs before Ontario publishes draws
+- Invented invitation cut offs before Ontario publishes draws
 - Age as a scoring factor (not on this grid)
 - Affiliation badges that imply this is an Ontario or IRCC product

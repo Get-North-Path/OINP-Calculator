@@ -4,7 +4,7 @@
 
 **Nav:** Guides
 
-Long-form explainers for the June 2026 rebuild. The nav item opens the **Workforce Priority stream** article. Every guide is also listed below.
+Long form explainers for the June 2026 rebuild. The nav item opens the **Workforce Priority stream** article. Every guide is also listed below.
 
 ---
 
@@ -12,7 +12,7 @@ Long-form explainers for the June 2026 rebuild. The nav item opens the **Workfor
 
 - What closed on **26 June 2026** (eight old streams)
 - The single worker stream and its three pathways
-- The **130-point** grid and what changed for applicants
+- The **130 point** grid and what changed for applicants
 - FAQ specific to the announcement
 
 ---

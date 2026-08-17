@@ -10,15 +10,15 @@ Living log of OINP invitation rounds. It keeps the **April 2026** ontario.ca his
 
 ## What you see today
 
-- **0** Workforce Priority draws so far (no cut-offs to publish yet)
+- **0** Workforce Priority draws so far (no cut offs to publish yet)
 - **29** April 2026 OINP rounds logged from ontario.ca
 - **7,694** April 2026 invitations (ontario.ca)
 - How to read a draw once rounds begin
-- Why old stream cut-offs **do not transfer** to the 130-point grid
+- Why old stream cut offs **do not transfer** to the 130 point grid
 
 The homepage still treats bands as **relative strength** on the new grid until Workforce Priority invitations exist.
 
-News that the EOI portal opened (4 August 2026) lives on [News](https://oinp.getnorthpath.com/blog). This Draws page is the **invitation log**, not the portal-status blog.
+News that the EOI portal opened (4 August 2026) lives on [News](https://oinp.getnorthpath.com/blog). This Draws page is the **invitation log**, not the portal status blog.
 
 ---
 

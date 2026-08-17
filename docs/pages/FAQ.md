@@ -4,7 +4,7 @@
 
 **Nav:** FAQ
 
-Full FAQ (20 questions). The homepage shows a 4-question subset.
+Full FAQ (20 questions). The homepage shows a 4 question subset.
 
 ---
 
@@ -24,10 +24,10 @@ Full FAQ (20 questions). The homepage shows a 4-question subset.
 | --- | --- |
 | Basics | What OINP is; nomination vs PR; what closed in June 2026 |
 | Eligibility | Job offer, language floors, work experience, applying from outside Canada, employer checks |
-| Scoring | 130-point max, invite score (none yet), age is **not** scored, region, language, tax year |
+| Scoring | 130 point max, invite score (none yet), age is **not** scored, region, language, tax year |
 | Process | EOI deadline, Express Entry + 600 CRS, both routes, refusals, portal / reopen timing |
 
-Home-page four:
+Home page four:
 
 1. Is this up to date with the June 2026 changes?
 2. What score do I need to be invited?

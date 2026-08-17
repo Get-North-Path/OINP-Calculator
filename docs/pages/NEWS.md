@@ -11,13 +11,13 @@ Short OINP update list: policy changes, portal status, and what they mean for th
 ## What the page is for
 
 - Draw and policy headlines after the June 2026 rebuild
-- A dated trail so applicants are not stuck on closed-stream advice
-- Cross-links into the calculator and official 2026 update pages
+- A dated trail so applicants are not stuck on closed stream advice
+- Cross links into the calculator and official 2026 update pages
 
 Example items already on the page:
 
 - Workforce Priority **EOI portal** opened **4 August 2026** (ontario.ca)
-- Calculator rebuilt for the **130-point** grid (3 August 2026)
+- Calculator rebuilt for the **130 point** grid (3 August 2026)
 
 ---
 

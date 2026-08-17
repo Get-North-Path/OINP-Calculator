@@ -11,9 +11,7 @@ Public docs for the GetNorthPath OINP Calculator. Start at the [root README](../
 | [PRODUCT.md](PRODUCT.md) | Everyone | What the SaaS does, and what it does not do |
 | [FEATURES.md](FEATURES.md) | Applicants, partners | Calculators, tools, guides, locales |
 | [PATHWAYS.md](PATHWAYS.md) | Applicants | Skilled, essential, physician |
-| [SCORING.md](SCORING.md) | Applicants | 11-factor grid overview |
-| [../CONTRIBUTING.md](../CONTRIBUTING.md) | Contributors | Issues and docs PRs |
-| [../SECURITY.md](../SECURITY.md) | Researchers | Vulnerability reporting |
+| [SCORING.md](SCORING.md) | Applicants | 11 factor grid overview |
 
 Live product: [oinp.getnorthpath.com](https://oinp.getnorthpath.com)
 

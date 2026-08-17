@@ -1,8 +1,8 @@
 # What is GetNorthPath?
 
-[GetNorthPath](https://www.getnorthpath.com) is a Canadian immigration platform: **AI-assisted application tools** plus **consultant review**, built for immigrants by immigrants.
+[GetNorthPath](https://www.getnorthpath.com) is a Canadian immigration platform: **AI assisted application tools** plus **consultant review**, built for immigrants by immigrants.
 
-The OINP Calculator is one of GetNorthPath’s **free public tools**. The parent product is a paid application workspace (flat **$299 CAD**) that helps people prepare IRCC filings with document checks, form auto-fill, and an experienced consultant on the file.
+The OINP Calculator is one of GetNorthPath’s **free public tools**. The parent product is a paid application workspace (flat **$299 CAD**) that helps people prepare IRCC filings with document checks, form auto fill, and an experienced consultant on the file.
 
 ---
 
@@ -20,19 +20,19 @@ GetNorthPath covers **13+ application types**, inside and outside Canada, includ
 
 | Area | Examples |
 | --- | --- |
-| **Federal economic** | Express Entry (FSW, CEC, FST), ITA response within the 60-day window |
+| **Federal economic** | Express Entry (FSW, CEC, FST), ITA response within the 60 day window |
 | **Provincial** | PNP streams including Ontario (OINP) and other provinces |
 | **Temporary** | Study permit, work permit, visitor visa, Super Visa |
-| **Family** | Family class and spousal / common-law sponsorship |
+| **Family** | Family class and spousal / common law sponsorship |
 | **Status** | Extensions, restoration, citizenship |
 | **Complex** | Humanitarian and compassionate, inadmissibility, appeals |
 
 Typical platform pieces:
 
-1. **Free 30-minute consultation** (no credit card)
+1. **Free 30 minute consultation** (no credit card)
 2. **Secure portal** for documents and checklists
 3. **AI document validation** against the profile
-4. **IRCC form auto-fill** from verified data
+4. **IRCC form auto fill** from verified data
 5. **Consultant review** before anything is treated as ready
 6. **Chrome extension** to push an approved package into the IRCC portal
 
@@ -53,8 +53,8 @@ The calculator can send people who want help to a **free consult** on GetNorthPa
 
 Sister public tools from the same org:
 
-- **[AORTrack](https://track.getnorthpath.com)** — community PR processing timelines ([GitHub](https://github.com/Get-North-Path/AOR-tracker))
-- **[CRS calculator](https://www.getnorthpath.com/tools/crs-calculator)** — federal Express Entry Comprehensive Ranking System
+- **[AORTrack](https://track.getnorthpath.com):** community PR processing timelines ([GitHub](https://github.com/Get-North-Path/AOR-tracker))
+- **[CRS calculator](https://www.getnorthpath.com/tools/crs-calculator):** federal Express Entry Comprehensive Ranking System
 
 ---
 

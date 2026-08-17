@@ -4,15 +4,15 @@ The **GetNorthPath OINP Calculator** is a free web app that estimates your **Ont
 
 Live: [oinp.getnorthpath.com](https://oinp.getnorthpath.com)
 
-It is a **mini-SaaS**: a focused product with calculators, helper tools, long-form guides, occupation and region pages, news, and an optional path into a GetNorthPath consultation. It is **not** a full immigration case-management system. That lives on [getnorthpath.com](https://www.getnorthpath.com). See [ABOUT.md](../ABOUT.md).
+It is a **mini SaaS**: a focused product with calculators, helper tools, long form guides, occupation and region pages, news, and an optional path into a GetNorthPath consultation. It is **not** a full immigration case management system. That lives on [getnorthpath.com](https://www.getnorthpath.com). See [ABOUT.md](../ABOUT.md).
 
 ---
 
 ## Problem it solves
 
-On **26 June 2026** Ontario closed the previous OINP streams (Employer Job Offer, Graduate, and Express Entry streams) and replaced them with **Workforce Priority**. The published grid is **11 factors, 130 points** (115 for self-employed physicians).
+On **26 June 2026** Ontario closed the previous OINP streams (Employer Job Offer, Graduate, and Express Entry streams) and replaced them with **Workforce Priority**. The published grid is **11 factors, 130 points** (115 for self employed physicians).
 
-Many third-party calculators still score the **closed** streams. Applicants then optimize the wrong factors (including age, which this grid does not score).
+Many third party calculators still score the **closed** streams. Applicants then optimize the wrong factors (including age, which this grid does not score).
 
 This product implements the **July 2026** framework so you can:
 
@@ -27,7 +27,7 @@ This product implements the **July 2026** framework so you can:
 ```
 oinp.getnorthpath.com
 ├── Calculators     score a profile (skilled / essential / physician / compare)
-├── Tools           CLB, NOC, wage, tax-history band
+├── Tools           CLB, NOC, wage, tax history band
 ├── Guides          how the stream works after June 2026
 ├── Occupations     nurses, developers, PSWs, trades, …
 ├── Regions         Toronto through Northern Ontario
@@ -44,7 +44,7 @@ Details: [FEATURES.md](FEATURES.md) · [PATHWAYS.md](PATHWAYS.md) · [SCORING.md
 
 - A **points estimator** aligned to Ontario’s published Workforce Priority grid
 - A **content site** (guides, FAQ, news, occupation and region notes)
-- A **lead-in** to GetNorthPath if you want a human consult
+- A **lead in** to GetNorthPath if you want a human consult
 - Available in **10 languages** (English default; others prefixed, e.g. `/fr/…`)
 
 ## What it is not
@@ -80,7 +80,7 @@ No account is required to score.
 | IRCC language equivalency charts | Test scores → CLB / NCLC |
 | Statistics Canada NOC 2021 | Occupation codes, titles, TEER |
 
-If this app and ontario.ca disagree, **ontario.ca and the regulation win**. File an issue: [CONTRIBUTING.md](../CONTRIBUTING.md).
+If this app and ontario.ca disagree, **ontario.ca and the regulation win**.
 
 ---
 
@@ -95,7 +95,7 @@ Scoring happens in the browser session. Optional consult / alert forms may colle
 | Product | Job |
 | --- | --- |
 | **OINP Calculator** (this) | Ontario PNP points and education |
-| **GetNorthPath platform** | End-to-end application workspace ($299 CAD) |
+| **GetNorthPath platform** | End to end application workspace ($299 CAD) |
 | **AORTrack** | Community PR milestone timelines |
 | **CRS calculator** | Federal Express Entry ranking |
 

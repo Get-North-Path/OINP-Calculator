@@ -2,9 +2,9 @@
 
 ![GetNorthPath OINP](https://oinp.getnorthpath.com/og/home.png)
 
-> **Score Ontario’s Workforce Priority stream against the current 130-point grid, not last year’s closed streams.**
+> **Score Ontario’s Workforce Priority stream against the current 130 point grid, not last year’s closed streams.**
 
-**Free Ontario Immigrant Nominee Program (OINP) points calculator** from [GetNorthPath](https://www.getnorthpath.com). Estimate your Expression of Interest score, compare pathways, look up NOC and CLB, and read plain-language guides after the **June 2026** stream rebuild.
+**Free Ontario Immigrant Nominee Program (OINP) points calculator** from [GetNorthPath](https://www.getnorthpath.com). Estimate your Expression of Interest score, compare pathways, look up NOC and CLB, and read plain language guides after the **June 2026** stream rebuild.
 
 [![Live app](https://img.shields.io/badge/Live-oinp.getnorthpath.com-blue?style=flat-square)](https://oinp.getnorthpath.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Get--North--Path%2FOINP--Calculator-181717?style=flat-square&logo=github)](https://github.com/Get-North-Path/OINP-Calculator)
@@ -17,7 +17,7 @@ This repository is the **public information hub** for the product: what GetNorth
 
 ## 🚀 What we do
 
-The OINP Calculator is a **free companion** for Ontario’s **Workforce Priority** stream: you enter a job offer (or physician profile), language, wage, region, and other published factors, and the app estimates your score out of **130** (or **115** for self-employed physicians).
+The OINP Calculator is a **free companion** for Ontario’s **Workforce Priority** stream: you enter a job offer (or physician profile), language, wage, region, and other published factors, and the app estimates your score out of **130** (or **115** for self employed physicians).
 
 We do **not** replace Ontario, IRCC, lawyers, or consultants. We **surface the published grid** in a form you can actually use, with eligibility warnings kept separate from points.
 
@@ -30,12 +30,12 @@ Ontario closed the old Employer Job Offer, Graduate, and Express Entry streams o
 | Feature | Description |
 | --- | --- |
 | 🧮 **Workforce Priority calculator** | Live EOI estimate across all **11** published factors (max **130**) |
-| 🩺 **Physician pathway** | Self-employed doctors: no job offer, max **115** (wage factor does not apply) |
+| 🩺 **Physician pathway** | Self employed doctors: no job offer, max **115** (wage factor does not apply) |
 | 👷 **Skilled vs essential** | Dedicated flows for TEER 0 to 3 and TEER 4 to 5 job offers |
-| ⚖️ **Compare scenarios** | Side-by-side view of up to three profiles |
+| ⚖️ **Compare scenarios** | Side by side view of up to three profiles |
 | 🗣️ **CLB converter** | IELTS, CELPIP, PTE Core, TEF, and TCF to CLB / NCLC |
 | 🔎 **NOC and TEER finder** | Search NOC 2021 unit groups and see occupation points |
-| 💵 **Wage and tax helpers** | Median wage lookup and income-tax history band estimator |
+| 💵 **Wage and tax helpers** | Median wage lookup and income tax history band estimator |
 | 📖 **Guides and news** | Stream explainers, document checklists, draw log, and OINP updates |
 | 🌍 **10 languages** | English unprefixed; `fr`, `es`, `pt`, `ar`, `ur`, `hi`, `pa`, `tl`, `zh` |
 | 🛡️ **Free to use** | No signup to score; estimates only, not legal advice |
@@ -57,12 +57,12 @@ Ontario closed the old Employer Job Offer, Graduate, and Express Entry streams o
 ## 🗺️ Who it’s for
 
 - **Workers with an Ontario job offer** who need a current Workforce Priority score, not a calculator still scoring closed 2025 streams
-- **Self-employed physicians** practising in Ontario (OHIP / CPSO path)
+- **Self employed physicians** practising in Ontario (OHIP / CPSO path)
 - **Applicants comparing regions or wages** who want to see which levers move the score
 - **Community helpers and consultants** who need a shareable, cited reference for the 2026 grid
 
 > *Not affiliated with IRCC, Ontario, or the Government of Canada. Scores are estimates from the published grid. Regulation 422/17 and ontario.ca prevail if anything disagrees.*
-> See also the in-app disclaimer on [oinp.getnorthpath.com](https://oinp.getnorthpath.com)
+> See also the in app disclaimer on [oinp.getnorthpath.com](https://oinp.getnorthpath.com)
 
 ---
 
@@ -75,9 +75,7 @@ Ontario closed the old Employer Job Offer, Graduate, and Express Entry streams o
 | [docs/PRODUCT.md](docs/PRODUCT.md) | What the OINP Calculator SaaS does |
 | [docs/FEATURES.md](docs/FEATURES.md) | Calculators, tools, guides, occupations, regions |
 | [docs/PATHWAYS.md](docs/PATHWAYS.md) | Skilled, essential, and physician pathways |
-| [docs/SCORING.md](docs/SCORING.md) | The 11-factor, 130-point grid (public overview) |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | Issues, scoring corrections, and docs PRs |
-| [SECURITY.md](SECURITY.md) | How to report vulnerabilities |
+| [docs/SCORING.md](docs/SCORING.md) | The 11 factor, 130 point grid (public overview) |
 
 Index: [docs/README.md](docs/README.md)
 
@@ -120,19 +118,9 @@ Index: [docs/README.md](docs/README.md)
 
 ---
 
-## 🤝 Contributing
-
-This public repo is for **product documentation and issue tracking**, not the application source.
-
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** — how to open issues and docs PRs
-- **[Open an issue](https://github.com/Get-North-Path/OINP-Calculator/issues/new/choose)** for scoring drift, missing copy, or feature ideas
-- **[SECURITY.md](SECURITY.md)** — report vulnerabilities to info@getnorthpath.com (not public issues)
-
----
-
 ## 📄 License
 
-Documentation in this repository is available under the **MIT License**. See [`LICENSE`](LICENSE).
+Documentation in this repository is available under the **MIT License**.
 
 © GetNorthPath Inc. · The OINP Calculator is free to use. Not affiliated with IRCC or the Government of Ontario. Scores are **estimates** from the published grid, not official government figures or legal advice.
 

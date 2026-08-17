@@ -4,7 +4,7 @@
 
 **Nav:** Physicians
 
-The only Workforce Priority pathway with **no job offer** and **no employer**. Self-employed doctors score out of **115**, not 130, because the **15-point hourly wage** factor does not apply.
+The only Workforce Priority pathway with **no job offer** and **no employer**. Self employed doctors score out of **115**, not 130, because the **15 point hourly wage** factor does not apply.
 
 ---
 

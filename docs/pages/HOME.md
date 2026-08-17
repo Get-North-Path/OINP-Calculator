@@ -2,7 +2,7 @@
 
 **Live:** [https://oinp.getnorthpath.com/](https://oinp.getnorthpath.com/)
 
-The homepage is the **all-pathways OINP points calculator**. You answer as you go; the score updates live out of **130**.
+The homepage is the **all pathways OINP points calculator**. You answer as you go; the score updates live out of **130**.
 
 Ontario replaced all 8 previous OINP streams on **26 June 2026**. This page scores the new **Workforce Priority** grid only.
 
@@ -10,7 +10,7 @@ Ontario replaced all 8 previous OINP streams on **26 June 2026**. This page scor
 
 ## What you do here
 
-1. Choose **worker with an Ontario job offer** or **self-employed physician**
+1. Choose **worker with an Ontario job offer** or **self employed physician**
 2. Search your job title (all **516** NOC 2021 occupations) or enter TEER and category by hand
 3. Enter wage, Ontario experience, CRA earnings, status, education, language, and job region
 4. Read the running total plus **Where you stand** and a ranked **action plan**
@@ -20,15 +20,15 @@ No signup is required to score.
 
 ---
 
-## On-page sections
+## On page sections
 
 | Block | Purpose |
 | --- | --- |
 | Pathway switcher | Hub, skilled, essential, physicians, compare |
 | Six question groups | Applicant type, occupation/wage, Canadian work, education, language, region |
 | Score panel | Total / 130, factor breakdown, band note |
-| Fact strip | June 2026 close, one worker stream, 130-point grid, EOI timing |
-| Guides and tools rail | Links into skilled, essential, physician, compare, how-to-apply, CLB, NOC |
+| Fact strip | June 2026 close, one worker stream, 130 point grid, EOI timing |
+| Guides and tools rail | Links into skilled, essential, physician, compare, how to apply, CLB, NOC |
 | Consult form | Name, email, WhatsApp, stage, notes |
 | FAQ (4 questions) | 2026 update, invite score, points vs eligibility, Express Entry + 600 CRS |
 

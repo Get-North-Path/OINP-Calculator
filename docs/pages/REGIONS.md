@@ -10,7 +10,7 @@ Region pages explain **job / practice location** points (up to **15**). Location
 | --- | --- | --- |
 | Northern Ontario | […/regions/northern-ontario](https://oinp.getnorthpath.com/regions/northern-ontario) | 15 / 15 |
 | Ottawa | […/regions/ottawa](https://oinp.getnorthpath.com/regions/ottawa) | 10 (Eastern) |
-| Waterloo–Kitchener | […/regions/waterloo-kitchener](https://oinp.getnorthpath.com/regions/waterloo-kitchener) | 10 |
+| Waterloo Kitchener | […/regions/waterloo-kitchener](https://oinp.getnorthpath.com/regions/waterloo-kitchener) | 10 |
 | Windsor | […/regions/windsor](https://oinp.getnorthpath.com/regions/windsor) | 10 |
 | Hamilton | […/regions/hamilton](https://oinp.getnorthpath.com/regions/hamilton) | 10 |
 | Toronto | […/regions/toronto](https://oinp.getnorthpath.com/regions/toronto) | 0 |

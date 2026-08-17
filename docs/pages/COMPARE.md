@@ -2,7 +2,7 @@
 
 **Live:** [https://oinp.getnorthpath.com/calculator/compare-scenarios](https://oinp.getnorthpath.com/calculator/compare-scenarios)
 
-Side-by-side Workforce Priority scores for **up to three** profiles, with a per-factor difference view.
+Side by side Workforce Priority scores for **up to three** profiles, with a per factor difference view.
 
 ---
 
@@ -13,7 +13,7 @@ Side-by-side Workforce Priority scores for **up to three** profiles, with a per-
 - “What if the wage band moves up?”
 - Skilled vs essential vs physician on the same screen
 
-No signup. Same 11-factor grid as the hub calculator.
+No signup. Same 11 factor grid as the hub calculator.
 
 ---
 

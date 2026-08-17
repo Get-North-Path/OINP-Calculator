@@ -11,7 +11,7 @@ Dedicated calculator for an eligible Ontario **job offer** in management, profes
 - Applicant type is locked to **worker**
 - TEER choices are 0 to 3 only (mismatch warning if the NOC is 4 or 5)
 - Max score **130**, including TEER points (9 or 6)
-- Copy and FAQ are written for this pathway (Job Offer ID, employer-first flow)
+- Copy and FAQ are written for this pathway (Job Offer ID, employer first flow)
 
 Typical language floor: **CLB 6** ( **CLB 5** for listed trades). Confirm on ontario.ca.
 

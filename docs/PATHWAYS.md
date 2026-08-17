@@ -27,16 +27,16 @@ Eligibility is not the same as points. Common gates include consecutive experien
 - **Language:** often a lower CLB floor (commonly **CLB 4** for TEER 4 to 5). Confirm on ontario.ca
 - **Experience:** often cumulative months in the occupation, not only time in one employer’s position
 
-A high essential-pathway score can still be competitive. The missing TEER points are structural, not a calculator bug.
+A high essential pathway score can still be competitive. The missing TEER points are structural, not a calculator bug.
 
 ---
 
-## 3. Self-employed physicians
+## 3. Self employed physicians
 
 - **URL:** [oinp.getnorthpath.com/calculator/physicians](https://oinp.getnorthpath.com/calculator/physicians)
-- **Who:** Physicians who can use the no-employer path
+- **Who:** Physicians who can use the no employer path
 - **Job offer:** **not required**
-- **Max score:** **115** (the **15-point hourly wage** factor does not apply)
+- **Max score:** **115** (the **15 point hourly wage** factor does not apply)
 - **Eligibility (typical):** OHIP billing number, eligible **CPSO** certificate of registration, **CLB 6** in all four abilities
 - **Experience factor:** cumulative **medical practice in Ontario**, not time in a single employer role
 - **Region:** practice address; often the largest lever you still control (Northern Ontario is 15, City of Toronto is 0)
@@ -47,23 +47,23 @@ A physician at 90 / 115 is not “weaker” than a worker at 90 / 130. The denom
 
 ## Process (high level)
 
-Ontario’s worker flow is **employer-first** for job-offer pathways:
+Ontario’s worker flow is **employer first** for job offer pathways:
 
 ```
 Employer files / Job Offer ID
         ↓
-You register an EOI (window is time-limited; Ontario has used 30 days)
+You register an EOI (window is time limited; Ontario has used 30 days)
         ↓
-Invitation from the pool (draws; cut-offs appear only after rounds run)
+Invitation from the pool (draws; cut offs appear only after rounds run)
         ↓
 Nomination application (Ontario has used a short filing window after invite)
         ↓
 Federal PR (Express Entry + 600 CRS, or a paper route where that applies)
 ```
 
-Physicians skip the employer job-offer step but still need the licence / OHIP pieces above.
+Physicians skip the employer job offer step but still need the licence / OHIP pieces above.
 
-Always confirm current windows on [ontario.ca](https://www.ontario.ca/page/ontario-workforce-priority-stream). This repo does not invent draw cut-offs.
+Always confirm current windows on [ontario.ca](https://www.ontario.ca/page/ontario-workforce-priority-stream). This repo does not invent draw cut offs.
 
 ---
 
@@ -73,7 +73,7 @@ Always confirm current windows on [ontario.ca](https://www.ontario.ca/page/ontar
 | --- | --- |
 | TEER 0 to 3 job offer | Skilled |
 | TEER 4 to 5 job offer | Essential |
-| Self-employed physician, no offer | Physicians |
+| Self employed physician, no offer | Physicians |
 | Unsure, or want both worker types | Hub `/` |
 | “What if I move to Sudbury / raise wage?” | Compare scenarios |
 
