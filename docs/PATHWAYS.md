@@ -74,7 +74,7 @@ Always confirm current windows on [ontario.ca](https://www.ontario.ca/page/ontar
 | TEER 0 to 3 job offer | Skilled |
 | TEER 4 to 5 job offer | Essential |
 | Self employed physician, no offer | Physicians |
-| Unsure, or want both worker types | Hub `/` |
+| Unsure, or want both worker types | Hub [/](https://oinp.getnorthpath.com/) |
 | “What if I move to Sudbury / raise wage?” | Compare scenarios |
 
 Occupation explainers: [FEATURES.md](FEATURES.md#occupations)
